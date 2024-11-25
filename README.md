@@ -12,7 +12,7 @@ Learn TDD with todo app simple
 #### 1. Thêm một task mới
 - [ ] Thêm một task mới thành công
   - input: title
-  - output: task mới được thêm vào và kích thước mảng sau khi thêm mới task
+  - output: task mới được thêm
 - [ ] Thêm một task mới không thành công
   - input: title là rỗng
   - output: thông báo lỗi 'title cannot be empty'
@@ -63,7 +63,7 @@ Learn TDD with todo app simple
 ## Cài đặt
 - Run install library
 ``` bash
-  $ omposer install
+  $ composer install
 ```
 - Run test
 ``` bash
